@@ -1,4 +1,6 @@
-# yuzhangbit.github.io
+# Magic-wei.github.io
+
+Ref: [yuzhangbit.github.io](https://github.com/yuzhangbit/yuzhangbit.github.io)
 
 My website based on the minimal mistakes theme.
 
