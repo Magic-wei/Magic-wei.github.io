@@ -1,1 +1,1 @@
-Sitemap: https://magic-wei.github.io/sitemap.xml
+Sitemap: http://localhost:4000/sitemap.xml
