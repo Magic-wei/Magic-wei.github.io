@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+#  - title: "Videos"
+#    url: /videos/
+  - title: "Projects"
+    url: /projects_index/
+#  - title: "Blogs"
+#    url: /blogs/
+  - title: "Codes"
+    url: https://github.com/Magic-wei
+#  - title: "Publications"
+#    url: /publications/
+  - title: "CV"
+    url: /about/

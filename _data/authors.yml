@@ -1,0 +1,31 @@
+# /_data/authors.yml
+
+Wei Wang:
+  name             : "Wei Wang"
+  avatar           : "/assets/images/bio_me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "PhD Candidate @IVRC at Beijing Institute of Technology."
+  location         : "Beijing, China"
+  email            : wei.wang.bit@outlook.com
+  uri              : https://magic-wei.github.io/
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : Magic-wei
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
