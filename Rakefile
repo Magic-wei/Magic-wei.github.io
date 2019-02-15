@@ -6,7 +6,7 @@ require "jekyll"
 
 
 # Change your GitHub reponame
-GITHUB_REPONAME = "yuzhangbit/yuzhangbit.github.io"
+GITHUB_REPONAME = "Magic-wei/Magic-wei.github.io"
 
 ENV["JEKYLL_ENV"] = "production"  # enable google analytics using this variable
 
