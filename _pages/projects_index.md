@@ -23,7 +23,7 @@ feature_path_tracking_review:
     - image_path: /assets/images/path_tracking_review.png
       alt: "placeholder image 2"
       title: "Path Tracking Algorithms Review and Verification"
-      excerpt: 'Leading a group of four beginner-level members, I sponsored this project to review papers and implement some practical algorithms in V-REP and real unmanned ground vehicles to make better assessment for path tracking algorithms in a unified framework and platform. I developed a new framework for motion control algorithms for better developing and verifying, which unified the interfaces used in real vehicle platform and V-REP simulation platforms.'
+      excerpt: 'Leading a group of four beginner-level members, I sponsored this research to review papers and implement some practical algorithms in V-REP and real vehicles to make better assessment for path tracking algorithms in a unified framework and platform. I developed a new framework for motion control algorithms for better developing and verifying, which unified the interfaces used in real vehicle platform and V-REP simulation platforms.'
 #      url: "/path_tracking_review_project"
 #      btn_label: "Read More"
 #      btn_class: "btn--primary"
@@ -38,8 +38,8 @@ feature_row:
     title: "4D/RCS Framework Development"
     excerpt: "Migrated path tracking algorithms to RCS framework."
   - image_path: /assets/images/minibus.png
-    title: "Autonomous Minibus Demonstration"
-    excerpt: "Verified and improved path tracking algorithms for minibuses trial operation in Shenzhen, China."
+    title: "Autonomous Minibus Development"
+    excerpt: "Verified and improved path tracking algorithms for minibus trial operation in Shenzhen, China."
 
 ---
 
