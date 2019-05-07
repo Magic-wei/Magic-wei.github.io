@@ -3,7 +3,7 @@ title: Success is the sum of small efforts.
 layout: single
 permalink: /
 #date: 2016-03-23T11:48:41-04:00
-excerpt: "There is nothing as practical as a good theory."  
+excerpt: "不积跬步，无以至千里。"  
 
 author_profile: true
 classes: wide
