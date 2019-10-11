@@ -19,10 +19,20 @@ using scss style file ([_buttons.scss](https://github.com/yuzhangbit/yuzhangbit.
     * The initialization of authors' name is disabled.
 
 ## Host the website locally
+
+First start with  [Bundler - Getting Started](https://bundler.io/) to install `bundler` and dependencies in the Gemfile in the project's root.
+
+```bash
+gem install bundler
+bundle install # install dependencies in Gemfile
+```
+
+Then run
+
 ```
 bash host_locally.bash
 ```
-Then the website is available at [http://localhost:4000](http://localhost:4000).
+Then the website is available at [http://localhost:4000](http://localhost:4000). 
 
 
 ## Publish the website

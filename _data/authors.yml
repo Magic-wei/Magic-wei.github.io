@@ -3,7 +3,7 @@
 Wei Wang:
   name             : "Wei Wang"
   avatar           : "/assets/images/bio_me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate @IVRC at Beijing Institute of Technology."
+  bio              : "PhD Candidate @IVRC at Beijing Institute of Technology and visiting PhD student @TRAILab at University of Toronto."
   location         : "Beijing, China"
   email            : wei.wang.bit@outlook.com
   uri              : https://magic-wei.github.io/
